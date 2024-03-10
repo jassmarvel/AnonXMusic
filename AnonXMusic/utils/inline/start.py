@@ -35,5 +35,8 @@ def private_panel(_):
         [
             InlineKeyboardButton(text=_["S_B_7"], url=f"https://9987up.co/#/register?invitationCode=888675555445"),
         ],
+        [
+            InlineKeyboardButton(text=_["𝚂𝚞𝚛𝚎𝚜𝚑𝚘𝚝 𝙿𝚛𝚎𝚍𝚒𝚌𝚝𝚒𝚘𝚗💥"], url=f"https://t.me/TC_PREDICTIONNN"),
+        ],
     ]
     return buttons
