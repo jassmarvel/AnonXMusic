@@ -143,6 +143,11 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
                 text="◁",
                 callback_data=f"slider B|{query_type}|{query}|{user_id}|{channel}|{fplay}",
             ),
+        ],
+        [
+            InlineKeyboardButton(text=_["S_B_8"], url=f"https://t.me/TC_PREDICTIONNN"),
+        ],
+        [
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
                 callback_data=f"forceclose {query}|{user_id}",
