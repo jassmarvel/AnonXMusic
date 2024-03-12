@@ -13,7 +13,7 @@ def start_panel(_):
             InlineKeyboardButton(text=_["S_B_2"], url=config.SUPPORT_CHAT),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_8"], url=f"https://t.me/TC_PREDICTIONNN"),
+            InlineKeyboardButton(text=_["S_B_7"], url=f"https://t.me/THESAMURAIJOURNEY"),
         ],
     ]
     return buttons
@@ -36,10 +36,10 @@ def private_panel(_):
             InlineKeyboardButton(text=_["S_B_6"], url=config.SUPPORT_CHANNEL),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_7"], url=f"https://9987up.co/#/register?invitationCode=888675555445"),
+            InlineKeyboardButton(text=_["S_B_7"], url=f"https://tirangacasino.in/#/register?invitationCode=3252569730"),
         ],
         [
-            InlineKeyboardButton(text=_["S_B_8"], url=f"https://t.me/TC_PREDICTIONNN"),
+            InlineKeyboardButton(text=_["S_B_8"], url=f"https://t.me/THESAMURAIJOURNEY"),
         ],
     ]
     return buttons
